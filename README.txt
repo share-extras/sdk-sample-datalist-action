@@ -52,7 +52,7 @@ dependencies.
 
 To do this, you must override the file 
 WEB-INF/classes/alfresco/site-webscripts/org/alfresco/components/data-lists/actions-common.get.head.ftl. 
-Copy this into the directory alfresco/web-extension/site-webscripts/org/alfresco/components/documentlibrary in 
+Copy this into the directory alfresco/web-extension/site-webscripts/org/alfresco/components/data-lists in 
 shared/classes and add the following lines at the bottom 
 of the file.
 
